@@ -7,9 +7,3 @@ This project generates fake e-commerce orders and streams them to an Apache Kafk
 - Streams the orders to an Apache Kafka topic.
 - Provides a Kafka consumer to read and verify the messages.
 - Supports SSL authentication for secure Kafka clusters.
-
-## Setup & Installation
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-username/fake-ecommerce-orders-kafka.git
-   cd fake-ecommerce-orders-kafka
